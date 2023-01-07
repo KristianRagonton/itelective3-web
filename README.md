@@ -4,7 +4,7 @@
 ## Agricultural Basic Stock Management System
 This is a Stock Inventory System designed to track and process the storage, transactions, distribution, and supply of agricultural equipment, tools, and seeds.
 
-![image]([https://www.datocms-assets.com/45470/1631110818-logo-react-js.png?fm=webp](https://static.javatpoint.com/blog/images/mern-stack.png) | height=50) 
+![image](https://static.javatpoint.com/blog/images/mern-stack.png | height=50) 
 ### MERN Stack
 ![alt text](https://www.datocms-assets.com/45470/1631110818-logo-react-js.png?fm=webp) React.js Front-end
 ![alt text](https://skillshack.blob.core.windows.net/uploads/express.webp) Express.js and 
