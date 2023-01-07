@@ -4,7 +4,7 @@
 ### Agricultural Basic Stock Management System
 This is a **Stock Inventory System** designed to track and process the storage, transactions, distribution, and supply of agricultural equipment, tools, and seeds. The system manages the stock purchase and payment processes, shipment supply and storage, quality control especially regarding defective stock and return of said stock, and lastly sales and distribution.
 
-Using MERN Stack 
+Using **MERN** Stack: **React.js** Front-end, **Express.js** and **Node.js** Server Tier, and **MongoDB** Database Tier
 
 &nbsp;
 
