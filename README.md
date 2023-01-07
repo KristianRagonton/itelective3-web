@@ -4,6 +4,7 @@
 ## Agricultural Basic Stock Management System
 This is a Stock Inventory System designed to track and process the storage, transactions, distribution, and supply of agricultural equipment, tools, and seeds.
 
+
 ## MERN Stack
 <img src="https://static.javatpoint.com/blog/images/mern-stack.png">
 
@@ -11,6 +12,6 @@ This is a Stock Inventory System designed to track and process the storage, tran
 
 ### Express.js Server Tier <img src="https://skillshack.blob.core.windows.net/uploads/express.webp" width="50" height="50"> 
 
- ### Server Tier <img src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" width="50" height="50">
+### Node.js Server Tier <img src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" width="50" height="50">
 
 ### MongoDB Database Tier <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="50" height="50">
