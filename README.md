@@ -4,10 +4,15 @@
 ## Agricultural Basic Stock Management System
 This is a Stock Inventory System designed to track and process the storage, transactions, distribution, and supply of agricultural equipment, tools, and seeds.
 
+## MERN Stack
 <img src="https://static.javatpoint.com/blog/images/mern-stack.png">;
 
-### MERN Stack
-![alt text](https://www.datocms-assets.com/45470/1631110818-logo-react-js.png?fm=webp) React.js Front-end
-![alt text](https://skillshack.blob.core.windows.net/uploads/express.webp) Express.js and 
-![alt text](https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg) Node.js Server Tier
-![alt text](https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress) MongoDB Database Tier
+### React.js Front-end
+<img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png?fm=web" width="50" height="50">;
+
+## Express.js Server Tier
+<img src="https://skillshack.blob.core.windows.net/uploads/express.webp" width="50" height="50">;
+## Server Tier
+<img src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" width="50" height="50">;
+## MongoDB Database Tier
+<img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="50" height="50">;
