@@ -10,9 +10,9 @@ This is a Stock Inventory System designed to track and process the storage, tran
 ### React.js Front-end
 <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png?fm=web" width="50" height="50">;
 
-## Express.js Server Tier
+### Express.js Server Tier
 <img src="https://skillshack.blob.core.windows.net/uploads/express.webp" width="50" height="50">;
-## Server Tier
+### Server Tier
 <img src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" width="50" height="50">;
-## MongoDB Database Tier
+### MongoDB Database Tier
 <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="50" height="50">;
