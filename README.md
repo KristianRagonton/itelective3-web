@@ -7,7 +7,7 @@ This is a Stock Inventory System designed to track and process the storage, tran
 ## MERN Stack
 <img src="https://static.javatpoint.com/blog/images/mern-stack.png">
 
-### React.js Front-end <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png?fm=web" width="50" height="50">
+<img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png?fm=web" width="50" height="50"> ### React.js Front-end 
 
 ### Express.js Server Tier
 <img src="https://skillshack.blob.core.windows.net/uploads/express.webp" width="50" height="50">
